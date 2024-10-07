@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="empty_image_warning">Empty Image !</string>
+    <string name="image_classifier_failed">Image Classified Failed</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_detection">Detection</string>
+    <string name="title_history">History</string>
+    <string name="articles_label">Articles</string>
+    <string name="articles_description">Menampilkan artikel seputar kesehatan terkini</string>
+    <string name="hasil_label">Hasil deteksi</string>
+    <string name="history_label">History</string>
+    <string name="history_description">Menampilkan history pengecekan</string>
+    <string name="total_pengecekan">Total pengecekan :</string>
+    <string name="belum_ada_pengecekan">Belum ada pengecekan</string>
+</resources>
